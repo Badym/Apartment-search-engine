@@ -1,0 +1,12 @@
+[
+  {
+    "directory": "C:\\Users\\badim\\OneDrive\\Pulpit\\PK\\rep\\6e597855-gr61-repo\\Projekt\\ConsoleApplication1",
+    "command": "\"C:\\WINDOWS\\system32\\CL.exe\" \/c \/ZI \/JMC \/nologo \/W3 \/WX- \/diagnostics:column \/Od \/Ob0 \/Oy- \/D CODE_ANALYSIS \/D _DEBUG \/D _CONSOLE \/D _UNICODE \/D UNICODE \/EHsc \/RTC1 \/MDd \/GS \/fp:precise \/permissive- \/Fo\"x64\\Debug\\\\\" \/Gd \/TP   \"C:\\Users\\badim\\OneDrive\\Pulpit\\PK\\rep\\6e597855-gr61-repo\\Projekt\\ConsoleApplication1\\ConsoleApplication1.cpp\"",
+    "file": "C:\\Users\\badim\\OneDrive\\Pulpit\\PK\\rep\\6e597855-gr61-repo\\Projekt\\ConsoleApplication1\\ConsoleApplication1.cpp"
+  },
+  {
+    "directory": "C:\\Users\\badim\\OneDrive\\Pulpit\\PK\\rep\\6e597855-gr61-repo\\Projekt\\ConsoleApplication1",
+    "command": "\"C:\\WINDOWS\\system32\\CL.exe\" \/c \/ZI \/JMC \/nologo \/W3 \/WX- \/diagnostics:column \/Od \/Ob0 \/Oy- \/D CODE_ANALYSIS \/D _DEBUG \/D _CONSOLE \/D _UNICODE \/D UNICODE \/EHsc \/RTC1 \/MDd \/GS \/fp:precise \/permissive- \/Fo\"x64\\Debug\\\\\" \/Gd \/TP   \"C:\\Users\\badim\\OneDrive\\Pulpit\\PK\\rep\\6e597855-gr61-repo\\Projekt\\ConsoleApplication1\\klasy.cpp\"",
+    "file": "C:\\Users\\badim\\OneDrive\\Pulpit\\PK\\rep\\6e597855-gr61-repo\\Projekt\\ConsoleApplication1\\klasy.cpp"
+  }
+]

@@ -1,0 +1,9 @@
+﻿  ConsoleApplication1.cpp
+  klasy.cpp
+C:\Users\badim\Desktop\Bazy\Stare_repa\6e597855-gr61-repo\Projekt\ConsoleApplication1\klasy.cpp(378,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\badim\Desktop\Bazy\Stare_repa\6e597855-gr61-repo\Projekt\ConsoleApplication1\klasy.cpp(394,21): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\badim\Desktop\Bazy\Stare_repa\6e597855-gr61-repo\Projekt\ConsoleApplication1\klasy.cpp(399,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+C:\Users\badim\Desktop\Bazy\Stare_repa\6e597855-gr61-repo\Projekt\ConsoleApplication1\klasy.cpp(555): warning C4715: 'Lista::strona': not all control paths return a value
+C:\Users\badim\Desktop\Bazy\Stare_repa\6e597855-gr61-repo\Projekt\ConsoleApplication1\klasy.cpp(696): warning C4715: 'Usun::strona': not all control paths return a value
+  ConsoleApplication1.vcxproj -> C:\Users\badim\Desktop\Bazy\Stare_repa\6e597855-gr61-repo\Projekt\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe

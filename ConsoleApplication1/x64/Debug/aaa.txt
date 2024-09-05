@@ -1,0 +1,10 @@
+wynajem	3000	Gliwice	Wroclawska	12	5	44	300
+wynajem	2200	Warszawa	Swietokrzyska	3	2	32	230
+sprzedaz	450000	Krakow	Tyniecka	7	4	29	tak
+wynajem	1800	Poznan	Polwiejska	9	1	43	230
+sprzedaz	750000	Gdansk	Chmielna	21	6	32	nie
+wynajem	2500	Wroclaw	Kosciuszki	17	3	45	190
+sprzedaz	320000	Katowice	Mariacka	32	2	23	tak
+wynajem	4000	Warszawa	Mokotowska	5	4	54	320
+sprzedaz	550000	Krakow	Wawel	14	3	43	nie
+wynajem	2800	Gdansk	Dluga	8	2	13	120

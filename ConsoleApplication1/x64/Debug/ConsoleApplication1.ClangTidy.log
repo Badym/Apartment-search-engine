@@ -1,0 +1,37 @@
+warning: argument unused during compilation: '/ZI' [clang-diagnostic-unused-command-line-argument]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xmemory:300:9: warning: destructor called on non-final 'NA_SPRZED' that has virtual functions but non-virtual destructor [clang-diagnostic-delete-non-abstract-non-virtual-dtor]
+        _Obj.~_Ty();
+        ^
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\memory:2048:9: note: in instantiation of function template specialization 'std::_Destroy_in_place<NA_SPRZED>' requested here
+        _Destroy_in_place(_Storage._Value);
+        ^
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\memory:2022:14: note: in instantiation of member function 'std::_Ref_count_obj2<NA_SPRZED>::_Destroy' requested here
+    explicit _Ref_count_obj2(_Types&&... _Args) : _Ref_count_base() {
+             ^
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\memory:2742:26: note: in instantiation of function template specialization 'std::_Ref_count_obj2<NA_SPRZED>::_Ref_count_obj2<std::basic_string<char> &, int &, std::basic_string<char> &, std::basic_string<char> &, int &, int &, int &, std::basic_string<char> &>' requested here
+    const auto _Rx = new _Ref_count_obj2<_Ty>(_STD forward<_Types>(_Args)...);
+                         ^
+C:\Users\badim\OneDrive\Pulpit\PK\rep\6e597855-gr61-repo\Projekt\ConsoleApplication1\klasy.cpp:92:32: note: in instantiation of function template specialization 'std::make_shared<NA_SPRZED, std::basic_string<char> &, int &, std::basic_string<char> &, std::basic_string<char> &, int &, int &, int &, std::basic_string<char> &>' requested here
+                        lista_mieszk[zajete] = std::make_shared<NA_SPRZED>(typ_oferty, cena, miasto, ulica, nr_loka, pokoje, metraz, raty);
+                                                    ^
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xmemory:300:15: note: qualify call to silence this warning
+        _Obj.~_Ty();
+              ^
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xmemory:300:9: warning: destructor called on non-final 'NA_WYNAJ' that has virtual functions but non-virtual destructor [clang-diagnostic-delete-non-abstract-non-virtual-dtor]
+        _Obj.~_Ty();
+        ^
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\memory:2048:9: note: in instantiation of function template specialization 'std::_Destroy_in_place<NA_WYNAJ>' requested here
+        _Destroy_in_place(_Storage._Value);
+        ^
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\memory:2022:14: note: in instantiation of member function 'std::_Ref_count_obj2<NA_WYNAJ>::_Destroy' requested here
+    explicit _Ref_count_obj2(_Types&&... _Args) : _Ref_count_base() {
+             ^
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\memory:2742:26: note: in instantiation of function template specialization 'std::_Ref_count_obj2<NA_WYNAJ>::_Ref_count_obj2<std::basic_string<char> &, int &, std::basic_string<char> &, std::basic_string<char> &, int &, int &, int &, int &>' requested here
+    const auto _Rx = new _Ref_count_obj2<_Ty>(_STD forward<_Types>(_Args)...);
+                         ^
+C:\Users\badim\OneDrive\Pulpit\PK\rep\6e597855-gr61-repo\Projekt\ConsoleApplication1\klasy.cpp:83:33: note: in instantiation of function template specialization 'std::make_shared<NA_WYNAJ, std::basic_string<char> &, int &, std::basic_string<char> &, std::basic_string<char> &, int &, int &, int &, int &>' requested here
+                                lista_mieszk[zajete] = std::make_shared<NA_WYNAJ>(typ_oferty, cena, miasto, ulica, nr_loka, pokoje, metraz, czynsz);
+                                                            ^
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xmemory:300:15: note: qualify call to silence this warning
+        _Obj.~_Ty();
+              ^
