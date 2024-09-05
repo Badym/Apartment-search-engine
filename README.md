@@ -1,1 +1,3 @@
 # Apartment-search-engine
+
+The "Apartment Search Engine" is a console-based application developed as a semester project in C++. It enables users to search for apartments in specific locations with customizable filtering options. Built using an object-oriented approach, the project features several custom data structures, such as binary trees, stacks, and queues, all implemented from scratch to manage and search apartment listings efficiently. This project demonstrates a solid understanding of C++ programming and data structure design while meeting the academic requirements for the semester assignment.
